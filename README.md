@@ -92,7 +92,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Santiago Soria** - *Trabajo Inicial* - [lsoriac](https://github.com/lsoriac)
 * **Erick Tapia** - *Documentación* - [Bolo10](https://github.com/Bolo10)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/Herig14/Proyecto-PF-56-G3/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
