@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)
 # Proyecto-PF-56-G3
 
 _Crear una aplicación en NodeJS que permita leer los datos de las
