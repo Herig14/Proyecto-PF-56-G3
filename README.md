@@ -1,6 +1,9 @@
-# Título del Proyecto
+# Proyecto-PF-56-G3
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Crear una aplicación en NodeJS que permita leer los datos de las
+Suscripciones a telefonía celular móvil, publicadas por el Banco
+Mundial y publicar las estadísticas de un determinado país en un
+año específico._
 
 ## Comenzando 🚀
 
@@ -102,4 +105,5 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
+Plantilla README:
 ⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
