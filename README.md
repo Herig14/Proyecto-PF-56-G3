@@ -87,10 +87,10 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Alexander Pogo** - *Trabajo Inicial* - [villanuevand](https://github.com/AlexanderPx)
-* **Herig Recalde** - *Documentación* - [fulanitodetal](https://github.com/Herig14)
-* **Santiago Soria** - *Trabajo Inicial* - [villanuevand](https://github.com/lsoriac)
-* **Erick Tapia** - *Documentación* - [fulanitodetal](https://github.com/Bolo10)
+* **Alexander Pogo** - *Trabajo Inicial* - [AlexanderPx](https://github.com/AlexanderPx)
+* **Herig Recalde** - *Documentación* - [Herig14](https://github.com/Herig14)
+* **Santiago Soria** - *Trabajo Inicial* - [lsoriac](https://github.com/lsoriac)
+* **Erick Tapia** - *Documentación* - [Bolo10](https://github.com/Bolo10)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
