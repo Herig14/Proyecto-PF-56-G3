@@ -1,0 +1,19 @@
+{
+  "name": "mobile-subs-stats",
+  "version": "0.0.5",
+  "description": "Aplicación en NodeJS que permite leer los datos de las Suscripciones a telefonía celular móvil y publicar las estadísticas de un determinado país en un año específico.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herig14/Proyecto-PF-56-G3.git"
+  },
+  "author": "Alexander Pogo, Herig Recalde, Erick Tapia, Santiago Soria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Herig14/Proyecto-PF-56-G3/issues"
+  },
+  "homepage": "https://github.com/Herig14/Proyecto-PF-56-G3#readme"
+}
