@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Herig14/Proyecto-PF-56-G3/issues"
   },
-  "homepage": "https://github.com/Herig14/Proyecto-PF-56-G3#readme"
+  "homepage": "https://github.com/Herig14/Proyecto-PF-56-G3#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "csvtojson": "^2.0.10",
+    "yargs": "^15.3.1"
+  }
 }
