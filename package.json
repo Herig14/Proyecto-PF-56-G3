@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "mobile-subs": "app.js"
+        "mobile-subs": "mobile-subs.js"
     },
     "repository": {
         "type": "git",
