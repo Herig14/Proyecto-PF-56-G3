@@ -1,58 +1,37 @@
-const argv = require('./config/helpful').argv;
+//Importación de módulos
+const argv = require('./Config/helpful').argv;
 const { analizar } = require('./Controlador/analisis')
-    //const { crearArchivo, listarTabla } = require('./multiplicar/multiplicar');
+const { printConsola } = require('./vista/consola')
 let comando = argv._[0]
 let path = argv.file
 let pais = argv.country
 let year = argv.year
-analizar(pais, year, path)
-    .then(datos => {
-        console.log(`La media global en el año ${year} es ${datos[1]}`);
-        console.log(datos[2]);
-        console.log("---5 por encima---");
-        for (i in datos[3].up) {
-            console.log(datos[3].up[i]['Country Name']);
-        }
-        console.log("---5 por por debajo---");
-
-        for (i in datos[3].down) {
-            console.log(datos[3].down[i]['Country Name']);
-        }
-
-        console.log("---5 primeros---");
-
-        for (i in datos[3].top) {
-            console.log(datos[3].top[i]['Country Name']);
-        }
-
-    })
-    .catch()
-switch (comando) {
-    case 'publicar':
-        break;
-    case 'guardar':
-        console.log("guardar");
+let data = "hola"
 
 
-        break;
-
-    default:
-        console.log("Comando no reconocido");
+let procesar = (callback) => {
+    analizar(pais, year, path)
+        .then(datos => {
+            data = datos
+                //encabezadoooooo
+            printConsola(datos)
+        })
+        .catch()
+    callback();
 }
 
-/*
-const http = require('http');
+function switchF() {
+    console.log(data);
+    switch (comando) {
+        case 'publicar':
 
-const hostname = '127.0.0.1';
-const port = 3000;
+            break;
+        case 'guardar':
 
-const server = http.createServer((req, res) => {
-    res.statusCode = 200;
-    res.setHeader('Content-Type', 'text/plain');
-    res.end('Hello World');
-});
+            break;
 
-server.listen(port, hostname, () => {
-    console.log(`Server running at http://${hostname}:${port}/`);
-});
-*/
+        default:
+            console.log("Comando no reconocido");
+    }
+}
+procesar(switchF)
