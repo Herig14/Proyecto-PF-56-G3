@@ -1,6 +1,6 @@
 {
     "name": "mobile-subs-stats",
-    "version": "1.0.0-beta",
+    "version": "1.0.1-beta",
     "description": "Aplicación en NodeJS que permite leer los datos de las Suscripciones a telefonía celular móvil y publicar las estadísticas de un determinado país en un año específico.",
     "main": "app.js",
     "scripts": {
