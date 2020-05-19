@@ -1,4 +1,5 @@
-//Importación de módulos
+#!/usr/bin/env node
+ //Importación de módulos
 const argv = require('./Config/helpful').argv;
 const { analizar } = require('./Controlador/analisis')
 const { printConsola } = require('./vista/consola')
