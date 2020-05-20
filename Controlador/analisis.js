@@ -20,7 +20,8 @@ async function mediaAnual(year, json) {
     let suma = 0
     total = 0
     jsonOB.forEach(element => {
-        if (element[year] > 0) {
+        let codeP = lookup.countries({ alpha3: element["Country Code"] })[0];
+        if (element[year] > 0 && codeP !== undefined) {
             total++
             suma += parseInt(element[year])
         }
