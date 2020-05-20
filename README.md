@@ -1,6 +1,5 @@
-
-
-# Proyecto Plataformas Web ![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)
+![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3) ![GitHub](https://img.shields.io/bundlephobia/minzip/mobile-subs-stats)
+# Proyecto Plataformas Web
 # Universidad Politécnica Salesiana
 
 
@@ -10,10 +9,6 @@ Mundial y publicar las estadísticas de un determinado país en un
 año específico._
 
 ## Comenzando 🚀
-
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 
 ### Pre-requisitos 📋
 #### Descarga e instala Node.js y npm
@@ -45,26 +40,29 @@ _Para la ejecucion de la app desarrollada en node.js simplemente instala_
 ```
 sudo npm i mobile-subs-stats -g
 ```
-### Ayuda ⚙️
+### Ayuda / Comandos ⚙️ 📦
+* _**-c** *code* Código ISO 31 ALPHA-3 de los paises._
+* _**-y** *year* Año (Desde 1960 - Hasta 2019)._
+* _**-f** *file* Path(Ruta) de los datos del Banco Mundial._
+* _**-o** *output* Nombre del JSON._
 ```
 mobile-subs --help
+mobile-subs publicar -c -y -f
+mobile-subs guardar -c -y -f -o
 ```
+
 ### Ejemplo 🔩
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
+_La ejecución se lleva a cabo con el siguiente comando **Asegurate** de haber descargado los datos del banco mundial y **también** colocar correctamente el path(ruta)_
 ```
-Da un ejemplo
+mobile-subs publicar -c ECU -f './API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
 ```
 
-## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+### Output del Ejemplo ⌨️
+
+<img src="https://github.com/Bolo10/Test/blob/master/Screenshot%20from%202020-05-20%2004-16-43.png?raw=true" alt="Lin Logo" width="719" height="794" />
+
 
 ## Construido con 🛠️
 
