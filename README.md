@@ -1,5 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)
-# Proyecto-PF-56-G3
+https://img.shields.io/bundlephobia/minzip/mobile-subs-stats/1.0.1-beta?color=green
+# Proyecto Plataformas Web
+# Universidad Politecnica Salesiana
+
 
 _Crear una aplicación en NodeJS que permita leer los datos de las
 Suscripciones a telefonía celular móvil, publicadas por el Banco
@@ -8,7 +11,10 @@ año específico._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Node.js 12.16.3 LTS o superior._
+```
+```
+_Gestor de paquetes npm 6.14.4 o superior._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -18,7 +24,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+
 ```
 
 ### Instalación 🔧
@@ -28,7 +34,7 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 _Dí cómo será ese paso_
 
 ```
-Da un ejemplo
+sudo npm i mobile-subs-stats -g
 ```
 
 _Y repite_
