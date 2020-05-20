@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3) ![GitHub](https://img.shields.io/bundlephobia/minzip/mobile-subs-stats)
+![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)  ![GitHub](https://img.shields.io/bundlephobia/minzip/mobile-subs-stats) ![GitHub](https://img.shields.io/github/languages/top/Herig14/Proyecto-PF-56-G3)  ![GitHub](https://img.shields.io/npm/v/mobile-subs-stats?color=green&label=mobile-subs-stats)
 # Proyecto Plataformas Web
 # Universidad Politécnica Salesiana
 
@@ -61,7 +61,7 @@ mobile-subs publicar -c ECU -f './API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
 
 ### Output del Ejemplo ⌨️
 
-<img src="https://github.com/Bolo10/Test/blob/master/Screenshot%20from%202020-05-20%2004-16-43.png?raw=true" alt="Lin Logo" width="719" height="794" />
+<img src="https://github.com/Bolo10/Test/blob/master/Screenshot%20from%202020-05-20%2004-59-30.png?raw=true" alt="Lin Logo" width="719" height="794" />
 
 
 ## Construido con 🛠️
