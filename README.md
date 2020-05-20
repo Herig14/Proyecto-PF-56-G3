@@ -10,10 +10,6 @@ año específico._
 
 ## Comenzando 🚀
 
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 #### Descarga e instala Node.js y npm
 1. Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Lin Logo" width="25" height="25" /> o Windows <img src="https://es.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png" alt="Win Logo" width="25" height="25" /> 
@@ -44,10 +40,17 @@ _Para la ejecucion de la app desarrollada en node.js simplemente instala_
 ```
 sudo npm i mobile-subs-stats -g
 ```
-### Ayuda ⚙️
+### Ayuda / Comandos ⚙️ 📦
+* _**-c** *code* Código ISO 31 ALPHA-3 de los paises._
+* _**-y** *year* Año (Desde 1960 - Hasta 2019)._
+* _**-f** *file* Path(Ruta) de los datos del Banco Mundial._
+* _**-o** *output* Nombre del JSON._
 ```
 mobile-subs --help
+mobile-subs publicar -c -y -f
+mobile-subs guardar -c -y -f -o
 ```
+
 ### Ejemplo 🔩
 
 _La ejecución se lleva a cabo con el siguiente comando **Asegurate** de haber descargado los datos del banco mundial y **también** colocar correctamente el path(ruta)_
@@ -56,19 +59,10 @@ mobile-subs publicar -c ECU -f './API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
 ```
 
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
+### Output del Ejemplo ⌨️
 
 <img src="https://github.com/Bolo10/Test/blob/master/Screenshot%20from%202020-05-20%2004-16-43.png?raw=true" alt="Lin Logo" width="719" height="794" />
 
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
