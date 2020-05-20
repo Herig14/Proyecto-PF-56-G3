@@ -17,7 +17,8 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 #### Descarga
-1. Windows
+1. Windows <img src="https://es.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png" alt="Win Logo" width="50" height="50" />
+
   - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
 
 2. Linux
