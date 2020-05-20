@@ -1,6 +1,6 @@
 
 
-# Proyecto Plataformas Web ![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)
+# Proyecto Plataformas Web ![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)![GitHub](https://img.shields.io/bundlephobia/minzip/mobile-subs-stats)
 # Universidad Politécnica Salesiana
 
 
@@ -51,7 +51,10 @@ mobile-subs --help
 ```
 ### Ejemplo 🔩
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_La ejecución se lleva a cabo con el siguiente comando **Asegurate** de haber descargado los datos del banco mundial y **también** colocar correctamente el path(ruta)_
+```
+npm mobile-subs publicar -c ECU -f '~/API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
+```
 
 
 ### Y las pruebas de estilo de codificación ⌨️
