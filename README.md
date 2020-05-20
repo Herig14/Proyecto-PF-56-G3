@@ -25,7 +25,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 ```
 sudo apt install nodejs
 ```
-  -_Gestor de paquetes npm 6.14.4 o superior._
+  - _Gestor de paquetes npm 6.14.4 o superior._
 ```
 npm install npm@latest -g
 ```
