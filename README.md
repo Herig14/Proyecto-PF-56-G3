@@ -17,9 +17,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
-1- Windows
+1. Windows
 _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
-2- Linux
+
+2. Linux
 _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior._
 ```
 
