@@ -36,7 +36,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 3. Datos Banco Mundial
-  - _Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator/IT.CEL.SETS?downloadformat=csv)._
+  - _Descarga de los datos en formato [CSV](https://datos.bancomundial.org/indicador/IT.CEL.SETS)._
 
 ### Instalación de nuestra APP 🔧
 
