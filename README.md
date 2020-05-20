@@ -23,7 +23,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 2. Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Lin Logo" width="25" height="25" />
 
-  - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior._
+  - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior tambien mediante una terminal._
 ```
 sudo apt install nodejs
 ```
