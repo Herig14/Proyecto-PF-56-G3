@@ -39,19 +39,12 @@ _Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+_Para la ejecucion de la app desarrollada en node.js simplemente instala_
 
 ```
 sudo npm i mobile-subs-stats -g
 ```
 
-_Y repite_
-
-```
-hasta finalizar
-```
 ### Ejemplo
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
