@@ -17,16 +17,17 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 #### Descarga e instala Node.js y npm
-1. Windows <img src="https://es.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png" alt="Win Logo" width="25" height="25" />
+1. Node y npm para Windows <img src="https://es.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png" alt="Win Logo" width="25" height="25" />
 
   - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
 
-2. Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Lin Logo" width="25" height="25" />
+2. Node para Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Lin Logo" width="25" height="25" />
 
-  - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior tambien mediante una terminal._
+  - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior también puedes instalar mediante una terminal._
 ```
 sudo apt install nodejs
 ```
+
   - _Gestor de paquetes npm 6.14.4 o superior._
 ```
 npm install npm@latest -g
@@ -39,7 +40,7 @@ sudo apt-get upgrade
 3. Datos Banco Mundial
   - _Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator/IT.CEL.SETS?downloadformat=csv)._
 
-### Instalación 🔧
+### Instalación de nuestra APP 🔧
 
 _Para la ejecucion de la app desarrollada en node.js simplemente instala_
 
@@ -75,9 +76,9 @@ _Las herramientas utilizadas en el desarrollo del proyecto son las siguientes:._
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
 * [VisualStudio](https://code.visualstudio.com/?wt.mc_id=DX_841432) - Editor de código
 
-## Wiki 📖
+## Nuestro paquete NPM 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://www.npmjs.com/package/mobile-subs-stats)
 
 ## Autores ✒️
 
