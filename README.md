@@ -12,30 +12,30 @@ año específico._
 ## Comenzando 🚀
 
 
-
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 #### Descarga
 1. Windows
-_[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
+  *_[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
 
 2. Linux
-_[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior._
+  *_[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior._
 ```
 sudo apt install nodejs
 ```
-_Gestor de paquetes npm 6.14.4 o superior._
+  *_Gestor de paquetes npm 6.14.4 o superior._
 ```
 npm install npm@latest -g
 ```
-_Actualizar y Upgrade_
+  *_Actualizar y Upgrade_
 ```
 sudo apt-get update
 sudo apt-get upgrade
 ```
-_Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator/IT.CEL.SETS?downloadformat=csv)._
+3. Datos Banco Mundial
+  *_Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator/IT.CEL.SETS?downloadformat=csv)._
 
 ### Instalación 🔧
 
@@ -75,7 +75,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Las herramientas utilizadas en el desarrollo del proyecto son las siguientes: _
+_Las herramientas utilizadas en el desarrollo del proyecto son las siguientes:._
 
 * [NodeJS](https://nodejs.org/) - Entorno de ejecución para JavaScript
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
