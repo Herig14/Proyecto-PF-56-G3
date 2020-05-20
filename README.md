@@ -53,7 +53,7 @@ mobile-subs --help
 
 _La ejecución se lleva a cabo con el siguiente comando **Asegurate** de haber descargado los datos del banco mundial y **también** colocar correctamente el path(ruta)_
 ```
-npm mobile-subs publicar -c ECU -f '~/API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
+mobile-subs publicar -c ECU -f './API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
 ```
 
 
