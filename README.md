@@ -75,22 +75,15 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Las herramientas utilizadas en el desarrollo del proyecto son las siguientes: _
 
 * [NodeJS](https://nodejs.org/) - Entorno de ejecución para JavaScript
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+* [VisualStudio](https://code.visualstudio.com/?wt.mc_id=DX_841432) - Editor de código
 
 ## Wiki 📖
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
@@ -118,4 +111,4 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 ---
 Plantilla README:
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+[Villanuevand](https://github.com/Villanuevand)
