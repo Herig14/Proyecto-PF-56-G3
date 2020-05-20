@@ -46,22 +46,14 @@ _Para la ejecucion de la app desarrollada en node.js simplemente instala_
 ```
 sudo npm i mobile-subs-stats -g
 ```
-
-### Ejemplo
+### Ayuda ⚙️
+```
+mobile-subs --help
+```
+### Ejemplo 🔩
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ### Y las pruebas de estilo de codificación ⌨️
 
