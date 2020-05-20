@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3) ![GitHub](https://img.shields.io/bundlephobia/minzip/mobile-subs-stats)![GitHub](https://img.shields.io/github/languages/top/Herig14/Proyecto-PF-56-G3)![GitHub](https://img.shields.io/npm/v/mobile-subs-stats)
+![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)  ![GitHub](https://img.shields.io/bundlephobia/minzip/mobile-subs-stats) ![GitHub](https://img.shields.io/github/languages/top/Herig14/Proyecto-PF-56-G3)  ![GitHub](https://img.shields.io/npm/v/mobile-subs-stats?color=green&label=mobile-subs-stats)
 # Proyecto Plataformas Web
 # Universidad Politécnica Salesiana
 
