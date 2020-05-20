@@ -7,13 +7,13 @@ let readCSV = async(path) => {
     try {
         csvStr = fs.readFileSync(path, "utf-8");
     } catch (error) {
-        throw new Error(`El archivo no existe`)
+        throw new Error(`El archivo csv no existe`)
     }
     if (csvStr.indexOf("IT.CEL.SETS") > 0 && csvStr.indexOf("Country") > 0 && csvStr.indexOf("IT.CEL.SETS") && csvStr.indexOf("Country") == 94) {
         csvStr = csvStr.substring(csvStr.indexOf("Country") - 1);
         return csv().fromString(csvStr).then((jsonObj) => jsonObj)
     } else {
-        throw new Error(`El Archivo no tiene el formato correcto correcto`);
+        throw new Error(`El Archivo no tiene el formato correcto`);
     }
 
 

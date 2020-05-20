@@ -43,10 +43,11 @@ function switchF() {
             console.log("Comando no reconocido");
     }
 }
-if (out === true) {
+
+if (out === true && comando == 'guardar') {
     printmsg("Especifique un nombre el parámetro out", "error");
-} else if (out.includes("<") || out.includes(">") || out.includes(":") || out.includes("\"") || out.includes("/") || out.includes("\\") || out.includes("|") || out.includes("?") || out.includes("*")) {
-    printmsg("El nombre del archivo no es válido", "error");
+} else if (comando == 'guardar' && (out.includes("<") || out.includes(">") || out.includes(":") || out.includes("\"") || out.includes("/") || out.includes("\\") || out.includes("|") || out.includes("?") || out.includes("*"))) {
+    printmsg("El nombre del archivo json no es válido", "error");
 } else {
     procesar(switchF)
 
