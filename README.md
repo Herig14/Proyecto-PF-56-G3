@@ -1,7 +1,7 @@
-![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)
 
-# Proyecto Plataformas Web
-# Universidad Politecnica Salesiana
+
+# Proyecto Plataformas Web ![GitHub](https://img.shields.io/github/license/herig14/Proyecto-PF-56-G3)
+# Universidad Politécnica Salesiana
 
 
 _Crear una aplicación en NodeJS que permita leer los datos de las
