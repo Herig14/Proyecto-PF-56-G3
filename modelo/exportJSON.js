@@ -1,30 +1,17 @@
-var fs = require("fs");
+const fs = require("fs");
 
 function getJSON(sampleObject, name) {
-    fs.writeFile(`./${name}.json`, JSON.stringify(sampleObject, null, 4), (err) => {
+    //Ruta donde se va a crear el archivo JSON
+    let ruta = `./${name}.json`
+    fs.writeFile(ruta, JSON.stringify(sampleObject, null, 4), (err) => {
         if (err) {
-            console.error(err);
-            return;
+            console.log(err);
         };
-        console.log("File has been created");
     });
-
+    let msg = "El archivo JSON fue creado"
+    var fullpath = __dirname + `\\vista\\archivosjson\\${name}.json`
+    return { mensaje: msg, path: fullpath };
 }
 module.exports = {
-        getJSON
-    }
-    /* Estructura
-          var sampleObject = {
-              paisc:{name=asdf,code=,valor=}
-              año:
-              media: 12,
-              valor:,
-              comparacion: 'tal pais tiene una media mayor a la global',
-              up: 'arriba',
-              down: 'abajo',
-              top: 'a'
-          };
-
-          getJSON(sampleObject, "hola")
-
-          */
+    getJSON
+}
