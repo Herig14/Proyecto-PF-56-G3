@@ -17,14 +17,16 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
-
-_Node.js 12.16.3 LTS o superior._
+1- Windows
+_[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
+2- Linux
+_[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior._
 ```
 
 ```
 _Gestor de paquetes npm 6.14.4 o superior._
 ```
-
+npm install npm@latest -g
 ```
 _Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator/IT.CEL.SETS?downloadformat=csv)._
 
