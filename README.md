@@ -17,13 +17,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 #### Descarga e instala Node.js y npm
-1. Node y npm para Windows <img src="https://es.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png" alt="Win Logo" width="25" height="25" />
+1. Windows <img src="https://es.seaicons.com/wp-content/uploads/2015/10/OS-Windows-icon.png" alt="Win Logo" width="25" height="25" /> o Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Lin Logo" width="25" height="25" />
 
-  - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi) o superior._
-
-2. Node y npm para Linux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Lin Logo" width="25" height="25" />
-
-  - _[Node.js 12.16.3 LTS](https://nodejs.org/dist/v12.16.3/node-v12.16.3-linux-x64.tar.xz) o superior._
+  - _[Node.js 12.16.3 LTS](https://nodejs.org/es/) o superior._
   
   - _Mediante una terminal._
 ```
@@ -32,7 +28,7 @@ sudo apt install nodejs
 
   - _Gestor de paquetes npm 6.14.4 o superior._
 ```
-npm install npm@latest -g
+sudo install npm@latest -g
 ```
   - _Actualizar y Upgrade_
 ```
