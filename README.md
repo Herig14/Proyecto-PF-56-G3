@@ -60,7 +60,8 @@ mobile-subs publicar -c ECU -f './API_IT.CEL.SETS_DS2_es_csv_v2_1072836.csv'
 ### Y las pruebas de estilo de codificación ⌨️
 
 _Explica que verifican estas pruebas y por qué_
-<img src="https://imgur.com/PG4eAaV" alt="Lin Logo" width="250" height="250" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="BHiNZ49"><a href="//imgur.com/BHiNZ49"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ```
 Da un ejemplo
 ```
