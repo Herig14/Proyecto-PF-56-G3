@@ -1,8 +1,4 @@
 const colors = require('../Config/theme').colors;
-
-const center = require('center-align');
-
-
 const { Table } = require('console-table-printer');
 const cercanos = new Table({
     columns: [{ name: 'Posición', alignment: 'center', color: 'white' }, { name: 'Pais', alignment: 'left' }, { name: 'Código', alignment: 'center' }, { name: 'Suscripciones', alignment: 'center' }]
