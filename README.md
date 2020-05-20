@@ -11,21 +11,22 @@ año específico._
 
 ## Comenzando 🚀
 
-_Node.js 12.16.3 LTS o superior._
-```
-```
-_Gestor de paquetes npm 6.14.4 o superior._
+
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
+_Node.js 12.16.3 LTS o superior._
 ```
 
 ```
+_Gestor de paquetes npm 6.14.4 o superior._
+```
+
+```
+_Descarga de los datos en formato [CSV](http://api.worldbank.org/v2/es/indicator/IT.CEL.SETS?downloadformat=csv)._
 
 ### Instalación 🔧
 
@@ -42,6 +43,7 @@ _Y repite_
 ```
 hasta finalizar
 ```
+### Ejemplo
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
